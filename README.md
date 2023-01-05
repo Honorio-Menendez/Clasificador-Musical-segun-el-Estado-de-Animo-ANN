@@ -6,4 +6,4 @@
 * Alexander Mamani Chura
 
 ## Descripción
-s
+En este trabajo se presenta el desarrollo de un sistema de clasificación y predicción automática del estado de ánimo musical basado en un diseño de redes neuronales artificiales de  perceptrón multicapa
