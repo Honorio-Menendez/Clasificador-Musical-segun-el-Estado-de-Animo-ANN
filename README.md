@@ -1,2 +1,6 @@
 # Clasificador-Musical-segun-el-Estado-de-Animo-ANN
-Proyecto final de la segunda unidad - Inteligencia Computacional
+
+##Integrantes
+* Deyvis Mamani Lacuta
+* Honorio Menendez Sacaca
+* Alexander Mamani Chura
